@@ -4,3 +4,4 @@ primer commit en master
 primero commit en dev
 
 # merge conflicts
+# merge conflicts master
